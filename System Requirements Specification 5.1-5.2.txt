@@ -1,0 +1,20 @@
+System Requirements Specification
+
+	5.1 System Functions
+	
+	1. The TMT System will measure time for an activity
+    1.2 Offer the ability to monitor a projects progress against the estimate.
+	2. Etract Weekley time sheets for all developers and average time on each project
+	2.1 Create customer invoices from collected data
+	3. Consolidate data
+	3.1 For future development projects the ability to more accurately estimate work 
+	4. Set up a tools and database for tracking resources devoted to a project
+	4.1 tools could assist on creating graphs, drawings and tables of collected data from databases
+	
+	
+	
+	5.2 System Interfaces
+	1. Web account
+	2. java - anyone of IDE'sheets
+	3. data base built with sql 
+	4.
